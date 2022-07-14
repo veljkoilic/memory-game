@@ -2,6 +2,8 @@
 ## Memory Card Game
 Is a **React.js Web game** where you reveal cards and match the ones with the same illustration
 
+[Live Preview](https://veljkoilic.github.io/memory-game/)
+
 <img src="https://i.ibb.co/BZHg6bW/memory-game.png" alt="memory game">
 
 ## Main functionalities
